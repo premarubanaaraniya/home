@@ -1,0 +1,73 @@
+
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #8E1914;
+  text-align:left;
+  width:50%;
+}
+
+p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size:15px;
+  color: black;
+
+  line-height:1.5;
+  width: 50%;
+}
+
+
+
+
+.navbar {
+  background-image:url("images/background.jpg");
+  overflow:hidden;
+  top:0;
+
+}
+
+.navbar ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  
+  
+}
+
+
+.navbar ul li {
+  float: left;
+  
+}
+
+.navbar ul li a{
+  display:block;
+  color:black;
+  text-align:center;
+  padding:14px 15px;
+  text-decoration:none;
+  top:0;
+  
+}
+
+.navbar ul li a:hover{
+  background-color:white;
+  color:#8E1914;
+}
+
+hr{
+  color:#a68070;
+}
+
+figure {
+  float:right;
+
+}
+
+.reaper {
+  width:400px;
+}
+
+figcaption {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  
+}

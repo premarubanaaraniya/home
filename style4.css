@@ -1,0 +1,48 @@
+.navbar {
+  overflow:hidden;
+  top:0;
+
+}
+
+.navbar ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  
+  
+}
+
+
+.navbar ul li {
+  float: left;
+  
+}
+
+.navbar ul li a{
+  display:block;
+  color:black;
+  text-align:center;
+  padding:14px 15px;
+  text-decoration:none;
+  top:0;
+  
+}
+
+.navbar ul li a:hover{
+  background-color:white;
+  color:#8E1914;
+
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #8E1914;
+  text-align:center;
+  width:100%;
+}
+
+p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size:15px;
+  color: black;
+  text-align:center;
+  line-height:1.5;
+  width: 100%;

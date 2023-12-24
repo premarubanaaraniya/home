@@ -1,0 +1,91 @@
+.navbar {
+  background-image:url("images/early life.jpg");
+  overflow:hidden;
+  top:0;
+
+}
+
+.navbar ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  
+  
+}
+
+
+.navbar ul li {
+  float: left;
+  
+}
+
+.navbar ul li a{
+  display:block;
+  color:black;
+  text-align:center;
+  padding:14px 15px;
+  text-decoration:none;
+  top:0;
+  
+}
+
+.navbar ul li a:hover{
+  background-color:white;
+  color:#8E1914;
+}
+
+.early-life {
+  width:100%;
+}
+
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #7E8187;
+  text-align:left;
+  width:50%;
+}
+
+p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size:15px;
+  color: black;
+  text-align:left;
+  line-height:1.5;
+  width:50%;
+  
+}
+
+.education{
+  color:#7b6255;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align:left;
+  width:50%;
+}
+
+.education2{
+  text-align:left;
+  width:50%;
+}
+
+.first-song{
+  width:440px;
+}
+
+
+
+.life {
+  width:440px;
+
+  
+}
+
+figure {
+  float:right;
+  
+}
+
+
+.figure2 {
+  float:right;
+}
+  
